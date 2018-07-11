@@ -113,12 +113,20 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="publish\AgregarNombreProfesor.application" />
+    <None Include="publish\Application Files\AgregarNombreProfesor_1_0_0_2\AgregarNombreProfesor.application" />
+    <None Include="publish\Application Files\AgregarNombreProfesor_1_0_0_2\AgregarNombreProfesor.exe.config" />
+    <None Include="publish\Application Files\AgregarNombreProfesor_1_0_0_2\AgregarNombreProfesor.exe.manifest" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="add_on.ico" />
+    <Content Include="publish\Application Files\AgregarNombreProfesor_1_0_0_2\add_on.ico" />
+    <Content Include="publish\Application Files\AgregarNombreProfesor_1_0_0_2\AgregarNombreProfesor.exe" />
+    <Content Include="publish\Application Files\AgregarNombreProfesor_1_0_0_2\itextsharp.dll" />
+    <Content Include="publish\setup.exe" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
