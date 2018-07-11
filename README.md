@@ -1,7 +1,7 @@
 # AgregarNombreProfesor
 Agrega Nombre del profesor a las Boletas en archivos PDF
 
-Para userlo:
+Para usarlo:
 
 
 1. Seleccione el archivo PDF de las boletas.
